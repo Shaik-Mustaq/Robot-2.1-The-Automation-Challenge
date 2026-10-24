@@ -1,0 +1,6 @@
+{
+  "Name": "Robot 2_The Automation Challenge",
+  "ProjectType": "Process",
+  "Description": "Must capture data into dynamic input fields from the spreadsheet.",
+  "MainFile": "Main.xaml"
+}
