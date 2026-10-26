@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="a99k17RI1U6gSJLDU9rN4A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="4737618a-069a-4940-868e-062da5b23a99" CvElementArea="789, 450, 38, 39" CvType="CheckBox" DesignTimeRectangle="790, 450, 37, 38" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='presentation' tag='BUTTON' /&gt;" Guid="6f0c1167-61fb-499d-bc39-d00e24624f7c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="efcf6896f42b8226551a98a0e1b9f825.jpg" xmlns="">0C_rp57KXpEytxiPwpd09Qg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

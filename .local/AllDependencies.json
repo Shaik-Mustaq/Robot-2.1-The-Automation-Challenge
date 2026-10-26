@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net10.0-windows7.0": {
+    "net8.0-windows7.0": {
       "BouncyCastle.Cryptography/2.3.1": {
         "type": "package",
         "compile": {
@@ -51,12 +51,12 @@
       "CsvHelper/33.1.0": {
         "type": "package",
         "compile": {
-          "lib/net9.0/_._": {
+          "lib/net8.0/_._": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net9.0/CsvHelper.dll": {
+          "lib/net8.0/CsvHelper.dll": {
             "related": ".xml"
           }
         }
@@ -424,53 +424,53 @@
           "System.Reflection.Metadata": "8.0.0"
         },
         "compile": {
-          "lib/net9.0/_._": {
+          "lib/net8.0/_._": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net9.0/Microsoft.CodeAnalysis.dll": {
+          "lib/net8.0/Microsoft.CodeAnalysis.dll": {
             "related": ".pdb;.xml"
           }
         },
         "resource": {
-          "lib/net9.0/cs/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/cs/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "cs"
           },
-          "lib/net9.0/de/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/de/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "de"
           },
-          "lib/net9.0/es/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/es/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "es"
           },
-          "lib/net9.0/fr/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/fr/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "fr"
           },
-          "lib/net9.0/it/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/it/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "it"
           },
-          "lib/net9.0/ja/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/ja/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "ja"
           },
-          "lib/net9.0/ko/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/ko/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "ko"
           },
-          "lib/net9.0/pl/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/pl/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "pl"
           },
-          "lib/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net9.0/ru/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/ru/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "ru"
           },
-          "lib/net9.0/tr/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/tr/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "tr"
           },
-          "lib/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "zh-Hans"
           },
-          "lib/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -484,53 +484,53 @@
           "System.Reflection.Metadata": "8.0.0"
         },
         "compile": {
-          "lib/net9.0/_._": {
+          "lib/net8.0/_._": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net9.0/Microsoft.CodeAnalysis.CSharp.dll": {
+          "lib/net8.0/Microsoft.CodeAnalysis.CSharp.dll": {
             "related": ".pdb;.xml"
           }
         },
         "resource": {
-          "lib/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "cs"
           },
-          "lib/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "de"
           },
-          "lib/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "es"
           },
-          "lib/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "fr"
           },
-          "lib/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "it"
           },
-          "lib/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "ja"
           },
-          "lib/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "ko"
           },
-          "lib/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "pl"
           },
-          "lib/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "ru"
           },
-          "lib/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "tr"
           },
-          "lib/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "zh-Hans"
           },
-          "lib/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -544,53 +544,53 @@
           "System.Reflection.Metadata": "8.0.0"
         },
         "compile": {
-          "lib/net9.0/_._": {
+          "lib/net8.0/_._": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net9.0/Microsoft.CodeAnalysis.VisualBasic.dll": {
+          "lib/net8.0/Microsoft.CodeAnalysis.VisualBasic.dll": {
             "related": ".pdb;.xml"
           }
         },
         "resource": {
-          "lib/net9.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "cs"
           },
-          "lib/net9.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "de"
           },
-          "lib/net9.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "es"
           },
-          "lib/net9.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "fr"
           },
-          "lib/net9.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "it"
           },
-          "lib/net9.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "ja"
           },
-          "lib/net9.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "ko"
           },
-          "lib/net9.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "pl"
           },
-          "lib/net9.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net9.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "ru"
           },
-          "lib/net9.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "tr"
           },
-          "lib/net9.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "zh-Hans"
           },
-          "lib/net9.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -5452,7 +5452,7 @@
         }
       }
     },
-    "net10.0-windows7.0/win-x64": {
+    "net8.0-windows7.0/win-x64": {
       "BouncyCastle.Cryptography/2.3.1": {
         "type": "package",
         "compile": {
@@ -5502,12 +5502,12 @@
       "CsvHelper/33.1.0": {
         "type": "package",
         "compile": {
-          "lib/net9.0/_._": {
+          "lib/net8.0/_._": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net9.0/CsvHelper.dll": {
+          "lib/net8.0/CsvHelper.dll": {
             "related": ".xml"
           }
         }
@@ -5875,53 +5875,53 @@
           "System.Reflection.Metadata": "8.0.0"
         },
         "compile": {
-          "lib/net9.0/_._": {
+          "lib/net8.0/_._": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net9.0/Microsoft.CodeAnalysis.dll": {
+          "lib/net8.0/Microsoft.CodeAnalysis.dll": {
             "related": ".pdb;.xml"
           }
         },
         "resource": {
-          "lib/net9.0/cs/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/cs/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "cs"
           },
-          "lib/net9.0/de/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/de/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "de"
           },
-          "lib/net9.0/es/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/es/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "es"
           },
-          "lib/net9.0/fr/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/fr/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "fr"
           },
-          "lib/net9.0/it/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/it/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "it"
           },
-          "lib/net9.0/ja/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/ja/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "ja"
           },
-          "lib/net9.0/ko/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/ko/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "ko"
           },
-          "lib/net9.0/pl/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/pl/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "pl"
           },
-          "lib/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net9.0/ru/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/ru/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "ru"
           },
-          "lib/net9.0/tr/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/tr/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "tr"
           },
-          "lib/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "zh-Hans"
           },
-          "lib/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll": {
+          "lib/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -5935,53 +5935,53 @@
           "System.Reflection.Metadata": "8.0.0"
         },
         "compile": {
-          "lib/net9.0/_._": {
+          "lib/net8.0/_._": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net9.0/Microsoft.CodeAnalysis.CSharp.dll": {
+          "lib/net8.0/Microsoft.CodeAnalysis.CSharp.dll": {
             "related": ".pdb;.xml"
           }
         },
         "resource": {
-          "lib/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "cs"
           },
-          "lib/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "de"
           },
-          "lib/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "es"
           },
-          "lib/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "fr"
           },
-          "lib/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "it"
           },
-          "lib/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "ja"
           },
-          "lib/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "ko"
           },
-          "lib/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "pl"
           },
-          "lib/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "ru"
           },
-          "lib/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "tr"
           },
-          "lib/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "zh-Hans"
           },
-          "lib/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+          "lib/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -5995,53 +5995,53 @@
           "System.Reflection.Metadata": "8.0.0"
         },
         "compile": {
-          "lib/net9.0/_._": {
+          "lib/net8.0/_._": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net9.0/Microsoft.CodeAnalysis.VisualBasic.dll": {
+          "lib/net8.0/Microsoft.CodeAnalysis.VisualBasic.dll": {
             "related": ".pdb;.xml"
           }
         },
         "resource": {
-          "lib/net9.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "cs"
           },
-          "lib/net9.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "de"
           },
-          "lib/net9.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "es"
           },
-          "lib/net9.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "fr"
           },
-          "lib/net9.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "it"
           },
-          "lib/net9.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "ja"
           },
-          "lib/net9.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "ko"
           },
-          "lib/net9.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "pl"
           },
-          "lib/net9.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net9.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "ru"
           },
-          "lib/net9.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "tr"
           },
-          "lib/net9.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "zh-Hans"
           },
-          "lib/net9.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+          "lib/net8.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -21814,29 +21814,29 @@
   },
   "projectFileDependencyGroups": {
     "": [],
-    "net10.0-windows7.0": [
+    "net8.0-windows7.0": [
       "UiPath.Excel.Activities >= 3.6.0-preview <= 3.6.0-preview",
       "UiPath.System.Activities >= 26.10.0 <= 26.10.0",
       "UiPath.UIAutomation.Activities >= 26.10.5 <= 26.10.5"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shaik\\.nuget\\packages\\": {}
+    "C:\\Users\\SMUSTAQ\\.nuget\\packages": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Robot 2_The Automation Challenge",
       "projectName": "Robot 2_The Automation Challenge",
-      "projectPath": "C:\\Users\\shaik\\OneDrive\\Documents\\UiPath\\UiPath projects\\Robot 2_The Automation Challenge\\.local",
-      "packagesPath": "C:\\Users\\shaik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shaik\\OneDrive\\Documents\\UiPath\\UiPath projects\\Robot 2_The Automation Challenge\\.local",
+      "projectPath": "C:\\Users\\SMUSTAQ\\studio\\Demo\\Robot 2.1 The Automation Challenge\\.local",
+      "packagesPath": "C:\\Users\\SMUSTAQ\\.nuget\\packages",
+      "outputPath": "C:\\Users\\SMUSTAQ\\studio\\Demo\\Robot 2.1 The Automation Challenge\\.local",
       "UsingMicrosoftNETSdk": false,
       "restoreAuditProperties": {
         "enableAudit": "False"
       }
     },
     "frameworks": {
-      "net10.0-windows7.0": {
+      "net8.0-windows7.0": {
         "dependencies": {
           "UiPath.Excel.Activities": {
             "include": "Runtime",
@@ -21854,7 +21854,7 @@
             "version": "[26.10.5, 26.10.5]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPathPlatform\\Studio\\26.0.204-cloud.25540\\WorkflowCompiler\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WiJJ07yw-U-1yXFpsOxOBg" Reference="y1v-jLXiOEeOBbxduKa-qQ/DM9cbNOUyUKpZuFygnpmbw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" DesignTimeRectangle="1568, 630, 260, 62" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='annual_saving_input_field_\d+$' matching:id='regex' tag='INPUT' type='input' class='bubble-element Input a1792929737631x975' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="3de723ae-f1cd-48e0-8969-b056e22b7f4a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="264b99abc353836dfb75b2b526fee04a.jpg" xmlns="">0A5w3T3AOC0mCqsgP1iOoMA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

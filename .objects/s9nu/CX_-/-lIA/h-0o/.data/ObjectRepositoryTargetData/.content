@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="S4zyMYeMIU6qM6uDTDUrJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="a169f9f5-b81c-4896-9277-c890f1f8e3f1" CvElementArea="69, 952, 507, 72" CvTextArea="288, 978, 64, 21" CvTextArgument="Start" CvType="Button" DesignTimeRectangle="71, 954, 504, 68" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='company_name_input_field_4' tag='BUTTON' /&gt;" Guid="8ca37f8b-f9ac-4ffd-a3a7-b2bf51d58a9b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="74, 893, 498, 36" FuzzySelectorArgument="&lt;webctrl aaname='  Download Excel Spreadsheet' class='content' parentid='company_name_input_field_4' tag='DIV' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' check:innerText='Download Excel Spreadsheet' /&gt;" Guid="e7602c98-819b-4741-8b1b-b1fa73392430" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a1189730192af786c61013d73581b81e.jpg" xmlns="">0F2esBc4TBEepJMdizDguiQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

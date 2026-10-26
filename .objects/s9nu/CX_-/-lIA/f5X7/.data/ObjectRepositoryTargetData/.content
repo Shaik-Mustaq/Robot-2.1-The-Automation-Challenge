@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xdOklrBfqkqp7bRHNN9fJg" Reference="y1v-jLXiOEeOBbxduKa-qQ/f5X7Y1C_yE64QQAvAG_Fkw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="c64f5fe1-8703-461c-802f-e65c3416c2d0" CvElementArea="828, 446, 253, 83" CvTextArea="909, 477, 87, 22" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="1162, 779, 269, 83" ElementType="Button" ElementVisibilityArgument="Visible" Guid="99ec2627-4f94-48dd-86a4-4e6acbd8efbc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="828f6927-1466-434c-a551-c8a9f6f0f223" CvElementArea="821, 679, 252, 83" CvTextArea="902, 710, 88, 22" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="1167, 783, 260, 75" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='submit*' tag='BUTTON' type='' class='bubble-element Button clickable-element' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='Submit' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Submit' /&gt;" Guid="0cf0360f-dd36-4fa0-97cd-89a09d8b58e7" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="621aa82e027507e4931a73f0e6c71fec.jpg" xmlns="">0POsN0_kXUECBD2cXT0gG6Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

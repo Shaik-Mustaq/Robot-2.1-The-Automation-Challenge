@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sector",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "zQShtbbg3kifP-c266Qlhw",
+  "Reference": "y1v-jLXiOEeOBbxduKa-qQ/zQShtbbg3kifP-c266Qlhw",
+  "ParentRef": "y1v-jLXiOEeOBbxduKa-qQ/-lIA39sOSEmacT3rb-21Kw",
+  "Created": "2026-10-25T09:59:16.7527251Z",
+  "Updated": "2026-10-25T09:59:16.7527251Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
